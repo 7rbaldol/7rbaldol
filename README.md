@@ -1,3 +1,4 @@
+<div style="background:rgba(22, 33, 97, 0.5);">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=4&section=header&text=%20Dr%20%207rbaldol%20&fontSize=45&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20|%20Discord%20Bot%20Architect&descAlignY=55&fontColor=ffffff" />
 </p>
@@ -19,11 +20,11 @@ Current Focus: Building Innovative Discord Automation Platforms 🚀
 ```
 
 ##  
-<h3 align="center">GitHub Stats </h3> <div align="center" style="transform: perspective(1000px) rotateX(5deg);"> <img src="https://github-readme-stats.vercel.app/api?username=7rbaldol&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=00F5A0&icon_color=00F5A0&card_width=450" height="170" alt="GitHub Stats" style="box-shadow: 0 0 30px rgba(0,245,160,0.5); border-radius: 12px;" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=7rbaldol&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5A0&fire=00D9F5&currStreakLabel=00F5A0" height="170" alt="GitHub Streak" style="box-shadow: 0 0 30px rgba(0,217,245,0.4); border-radius: 12px;" /> </div> <div align="center" style="margin-top: 15px; transform: perspective(1200px) rotateY(5deg);"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=7rbaldol&theme=tokyonight&hide_border=true&background=0D1117&title_color=00F5A0" height="160" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=7rbaldol&theme=tokyonight&hide_border=true&background=0D1117&title_color=00F5A0" height="160" /> </div>
+<h3 align="center">GitHub Stats </h3> <div align="center" style="transform: perspective(1000px) rotateX(5deg);"> <img src="https://github-readme-stats.vercel.app/api?username=7rbaldol&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=00F5A0&icon_color=00F5A0&card_width=450" height="170" alt="GitHub Stats" style="box-shadow: 0 0 30px rgba(22, 33, 97, 0.5); border-radius: 12px;" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=7rbaldol&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5A0&fire=00D9F5&currStreakLabel=00F5A0" height="170" alt="GitHub Streak" style="box-shadow: 0 0 30px rgba(0,217,245,0.4); border-radius: 12px;" /> </div> <div align="center" style="margin-top: 15px; transform: perspective(1200px) rotateY(5deg);"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=7rbaldol&theme=tokyonight&hide_border=true&background=0D1117&title_color=00F5A0" height="160" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=7rbaldol&theme=tokyonight&hide_border=true&background=0D1117&title_color=00F5A0" height="160" /> </div>
 
 
 ## 
-<h3 align="center">Discord Account</h3> <div align="center"> <a href="https://discord.com/users/829263795364036608" target="_blank"> <img src="https://lanyard.cnrad.dev/api/829263795364036608?theme=dark&bg=0d1117&borderRadius=25px&showDisplayName=true&animated=true&waveColor=00D9F5&idleMessage=%20Dr%20Development" height="50%" width="60%" style="box-shadow: 0 0 25px rgba(37, 21, 110, 0.6); border-radius: 20px;" /> </a> </div>
+<h3 align="center">Discord Account</h3> <div align="center"> <a href="https://discord.com/users/829263795364036608" target="_blank"> <img src="https://lanyard.cnrad.dev/api/829263795364036608?theme=dark&bg=0d1117&borderRadius=25px&showDisplayName=true&animated=true&waveColor=00D9F5&idleMessage=%20Dr%20Development" height="210" style="box-shadow: 0 0 25px rgba(37, 21, 110, 0.6); border-radius: 20px;" /> </a> </div>
 
 ##
 <h3 align="center">Tech Arsenal</h3>
@@ -62,3 +63,4 @@ Current Focus: Building Innovative Discord Automation Platforms 🚀
 
 ##  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=7rbaldol&color=00F5A0&style=for-the-badge" alt="Profile Views" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:00F5A0,100:00D9F5&section=footer&animation=fadeIn" /> </p>
+</div>
