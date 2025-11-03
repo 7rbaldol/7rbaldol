@@ -23,7 +23,7 @@ Current Focus: Building Innovative Discord Automation Platforms 🚀
 
 
 ## 
-<h3 align="center">Discord Account</h3> <div align="center"> <a href="https://discord.com/users/829263795364036608" target="_blank"> <img src="https://lanyard.cnrad.dev/api/829263795364036608?theme=dark&bg=0d1117&borderRadius=25px&showDisplayName=true&animated=true&waveColor=00D9F5&idleMessage=%20Dr%20Development" height="210" style="box-shadow: 0 0 25px rgba(37, 21, 110, 0.6); border-radius: 20px;" /> </a> </div>
+<h3 align="center">Discord Account</h3> <div align="center"> <a href="https://discord.com/users/829263795364036608" target="_blank"> <img src="https://lanyard.cnrad.dev/api/829263795364036608?theme=dark&bg=0d1117&borderRadius=25px&showDisplayName=true&animated=true&waveColor=00D9F5&idleMessage=%20Dr%20Development" height="50%" width="60%" style="box-shadow: 0 0 25px rgba(37, 21, 110, 0.6); border-radius: 20px;" /> </a> </div>
 
 ##
 <h3 align="center">Tech Arsenal</h3>
