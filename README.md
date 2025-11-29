@@ -81,9 +81,7 @@ Hey there, I'm Dr, a 20 year old software developer from Sa. I love making Disco
 <br>
 
 
-[![My Discord User](https://my-badge.vercel.app/api?id=1434676394486398998)](https://discord.com/users/1434676394486398998)
 
-[![My Discord Server](https://discord.com/api/guilds/1434676394486398998/widget.png?style=banner2)]([https://discord.gg/rMr5YdvYvP](https://discord.gg/nfTjFHFcfy))
 
 
 
