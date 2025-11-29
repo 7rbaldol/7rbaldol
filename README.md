@@ -1,6 +1,6 @@
 # Dr
 
-Hey there, I'm Dr, a 2 year old software developer from Sa. I love making Discord bots with JavaScript
+Hey there, I'm Dr, a 20 year old software developer from Sa. I love making Discord bots with JavaScript
 
 ### ![Dr](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000FF&width=435&lines=Hi+there+I'm+Dr+%F0%9F%91%8B)
 
