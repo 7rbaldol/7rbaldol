@@ -1,66 +1,91 @@
-<div style="background:rgba(22, 33, 97, 0.5);">
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=4&section=header&text=%20Dr%20%207rbaldol%20&fontSize=45&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20|%20Discord%20Bot%20Architect&descAlignY=55&fontColor=ffffff" />
-</p>
+# Abdallah Mohammed
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00F5A0&center=true&vCenter=true&width=700&lines=👋+Welcome+to+My+3D+Digital+Universe;I'm+7rbaldol+(Dr);⚙️+Full+Stack+Engineer+%26+Automation+Architect;🚀+Crafting+Next-Gen+Discord+Ecosystems;💫+Building+The+Future,+One+Line+at+a+Time" alt="Typing Animation" />
-</p>
+Hey there, I'm Boda, a 22 year old software developer from Egypt. I love making Discord bots with JavaScript
+
+### ![Dr](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000FF&width=435&lines=Hi+there+I'm+Dr+%F0%9F%91%8B)
+
+---
+<div align="center">
+
+<a href="https://discord.com/users/829263795364036608"><img src="https://lanyard.cnrad.dev/api/829263795364036608?bg=&borderRadius=30px&ignoreAppId=829263795364036608&idleMessage=&theme=dark&animated=false&showDisplayName=false" /></a>
+<p>
+   <a href="https://discord.com/channels/@me/829263795364036608"> 
+     <img src="https://discord.c99.nl/widget/theme-2/829263795364036608.png" alt="contact me">
+   </a>
+<p>
+
+</div>
+<br />
+
+- I am a Discord bot developer from Sa, specializing in building integrated systems within the Discord ecosystem.  
+- I have extensive experience with **Node.js** and love creating powerful bots for server management, tickets, and automation.  
+- I have built various bots with different features and enjoy the challenge of developing custom solutions to meet user needs.  
+
+<br />
+
+- ![GitHub followers](https://img.shields.io/github/followers/7rbaldol?style=plastic&logo=github&labelColor=%23121212&color=%23970000FF)
 
 ---
 
-<h2 align="center"> About Me</h2>
+<br />
 
-```yaml
-Identity: Dr (7rbaldol)
-Title: Full Stack Developer | Discord Systems Engineer
-Specialty: Advanced Bot Infrastructure • API Engineering • Dashboard UX
-Languages: JavaScript, TypeScript, HTML, CSS, Node.js , Discord.js
-Current Focus: Building Innovative Discord Automation Platforms 🚀
-```
+### 🧰 Languages and Tools
 
-##  
-<h3 align="center">GitHub Stats </h3> <div align="center" style="transform: perspective(1000px) rotateX(5deg);"> <img src="https://github-readme-stats.vercel.app/api?username=7rbaldol&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=00F5A0&icon_color=00F5A0&card_width=450" height="170" alt="GitHub Stats" style="box-shadow: 0 0 30px rgba(22, 33, 97, 0.5); border-radius: 12px;" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=7rbaldol&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5A0&fire=00D9F5&currStreakLabel=00F5A0" height="170" alt="GitHub Streak" style="box-shadow: 0 0 30px rgba(0,217,245,0.4); border-radius: 12px;" /> </div> <div align="center" style="margin-top: 15px; transform: perspective(1200px) rotateY(5deg);"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=7rbaldol&theme=tokyonight&hide_border=true&background=0D1117&title_color=00F5A0" height="160" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=7rbaldol&theme=tokyonight&hide_border=true&background=0D1117&title_color=00F5A0" height="160" /> </div>
+<div align="center">
 
+[![My Languages](https://skillicons.dev/icons?i=js,nodejs,git,github,npm,py)]()
 
-## 
-<h3 align="center">Discord Account</h3> <div align="center"> <a href="https://discord.com/users/829263795364036608" target="_blank"> <img src="https://lanyard.cnrad.dev/api/829263795364036608?theme=dark&bg=0d1117&borderRadius=25px&showDisplayName=true&animated=true&waveColor=00D9F5&idleMessage=%20Dr%20Development" height="210" style="box-shadow: 0 0 25px rgba(37, 21, 110, 0.6); border-radius: 20px;" /> </a> </div>
+</div>
 
-##
-<h3 align="center">Tech Arsenal</h3>
+<br />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,100:00D9F5&height=3&section=header" width="60%" />
-</p>
+### 💻 Programs Skills 
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,php,html,css,react,ejs,discord,discordjs,vscode&theme=dark" alt="Tech Stack Icons" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=%203D%20Tech%20Ecosystem&theme=tokyonight&lineCount=2&align=center&showBorder=false&line1=Node.js,Node.js,00F5A0;Express,Express,00D9F5;MongoDB,MongoDB,00F5A0;Discord.js,Discord.js,00D9F5&line2=React,React,00F5A0;HTML,HTML,00D9F5;CSS,CSS,00F5A0;Linux,Linux,00D9F5" alt="3D Tech Ecosystem"/>
-</p>
+[![My Languages](https://skillicons.dev/icons?i=visualstudio,vscode,replit,photoshop,premiere,discord,discordbots)]()
+
+</div>
+<br />
 
 
+## 📈 GitHub Statistics
+
+<div align="center">
+
+### Activity & Streak
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=7rbaldol&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=600&lines=Building+Smart+Automation+Ecosystems;Designing+Next-Gen+Applications;Transforming+Ideas+Into+Code+" alt="Typing Animation"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=7rbaldol&show_icons=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Stats&include_all_commits=true&count_private=true&card_width=495" width="49%" alt="Stats"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=7rbaldol&theme=tokyonight&hide_border=true" width="49%" alt="Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9F5,100:00F5A0&height=3&section=footer" width="60%" />
+### 📊 Languages & Productivity
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7rbaldol&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=375" style="width: 45%;" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=7rbaldol&theme=tokyonight&utcOffset=8" style="width: 45%;" alt="Productivity"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=7rbaldol&theme=tokyonight" style="width: 45%;" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=7rbaldol&theme=tokyonight" style="width: 45%;" alt="Most Commit Language"/>
+</div>
 </p>
 
-##  
-<h3 align="center">Activity & Contribution</h3> <div align="center" style="transform: perspective(1000px) rotateX(5deg);"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=7rbaldol&theme=react-dark&bg_color=0D1117&hide_border=true&line=00F5A0&point=00D9F5&area=true" alt="Activity Graph" style="box-shadow: 0 0 30px rgba(24, 30, 102, 0.5); border-radius: 12px;" /> </div>
 
-##  
-<h3 align="center"> Connect With Me</h3> <p align="center"> <a href="https://discord.com/users/829263795364036608" target="_blank"> <img src="https://img.shields.io/badge/Discord-Dr%230001-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a> <a href="https://github.com/7rbaldol" target="_blank"> <img src="https://img.shields.io/badge/GitHub-7rbaldol-171515?style=for-the-badge&logo=github" /> </a>  </p>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=7rbaldol&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
-##
+<div style="display: flex; justify-content: center; flex-wrap: wrap; margin-top: 10px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=7rbaldol&theme=dracula&margin-w=10&margin-h=10&no-frame=true" style="max-width: 90%; height: auto;" alt="GitHub Trophies"/>
+</div>
+<br>
 
-<h3 align="center"> Signature</h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=600&lines=Code.+Create.+Innovate.;Made+With+By+Dr.;Stay+Curious,+Stay+Driven+⚡;Welcome+to+the+3D+World" alt="Signature" /> </p>
 
-##  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=7rbaldol&color=00F5A0&style=for-the-badge" alt="Profile Views" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:00F5A0,100:00D9F5&section=footer&animation=fadeIn" /> </p>
+[![My Discord User](https://my-badge.vercel.app/api?id=1434676394486398998)](https://discord.com/users/1434676394486398998)
+
+[![My Discord Server](https://discord.com/api/guilds/1006273962986188881/widget.png?style=banner2)]([https://discord.gg/rMr5YdvYvP](https://discord.gg/nfTjFHFcfy))
+
+
+
+
 </div>
