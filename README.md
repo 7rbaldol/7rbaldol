@@ -7,7 +7,7 @@ Hey there, I'm Dr, a 2 year old software developer from Sa. I love making Discor
 ---
 <div align="center">
 
-<a href="https://discord.com/users/829263795364036608"><img src="https://lanyard.cnrad.dev/api/829263795364036608?bg=&borderRadius=30px&ignoreAppId=829263795364036608&idleMessage=&theme=dark&animated=false&showDisplayName=false" /></a>
+<a href="https://discord.com/users/829263795364036608"><img src="https://lanyard.cnrad.dev/api/829263795364036608?bg=&borderRadius=30px&ignoreAppId=829263795364036608&idleMessage=&theme=dark&animated=false&showDisplayName=true" /></a>
 <p>
    <a href="https://discord.com/channels/@me/829263795364036608"> 
      <img src="https://discord.c99.nl/widget/theme-2/829263795364036608.png" alt="contact me">
