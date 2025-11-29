@@ -1,6 +1,6 @@
-# Abdallah Mohammed
+# Dr
 
-Hey there, I'm Boda, a 22 year old software developer from Egypt. I love making Discord bots with JavaScript
+Hey there, I'm Dr, a 2 year old software developer from Sa. I love making Discord bots with JavaScript
 
 ### ![Dr](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000FF&width=435&lines=Hi+there+I'm+Dr+%F0%9F%91%8B)
 
@@ -83,7 +83,7 @@ Hey there, I'm Boda, a 22 year old software developer from Egypt. I love making 
 
 [![My Discord User](https://my-badge.vercel.app/api?id=1434676394486398998)](https://discord.com/users/1434676394486398998)
 
-[![My Discord Server](https://discord.com/api/guilds/1006273962986188881/widget.png?style=banner2)]([https://discord.gg/rMr5YdvYvP](https://discord.gg/nfTjFHFcfy))
+[![My Discord Server](https://discord.com/api/guilds/1434676394486398998/widget.png?style=banner2)]([https://discord.gg/rMr5YdvYvP](https://discord.gg/nfTjFHFcfy))
 
 
 
